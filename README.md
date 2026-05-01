@@ -15,7 +15,7 @@ SCHEMATIC DIAGRAM
 
 
 3D VIEW 
-![3dview](3dview.png)
+![view3d](view3d.png)
 
 
 
