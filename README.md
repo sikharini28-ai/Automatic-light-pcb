@@ -10,7 +10,7 @@ PCB LAYOUT
 
 
 SCHEMATIC DIAGRAM
-![schematic](schmatic.png)
+![schematic](schematic.png)
 
 
 
