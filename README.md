@@ -6,13 +6,18 @@ KiCAd
 
 
 PCB LAYOUT
-![pcb](pcb.png)
+![pcb layout](pcb layout.png)
+
 
 SCHEMATIC DIAGRAM
 ![schematic](schmatic.png)
 
+
+
 3D VIEW 
 ![3d](3d.png)
+
+
 
 DESIGNED BY 
 SIKHARINI S
