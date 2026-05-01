@@ -5,7 +5,7 @@ TOOL USED
 KiCAd
 
 
-##PCB LAYOUT
+#PCB LAYOUT
 
 
 
@@ -13,7 +13,7 @@ KiCAd
 
 
 
-##SCHEMATIC DIAGRAM
+#SCHEMATIC DIAGRAM
 
 
 
@@ -22,12 +22,12 @@ KiCAd
 
 
 
-##3D VIEW
+#3D VIEW
 
 
 ![view3d](view3d.png)
 
 
 
-##DESIGNED BY 
-##SIKHARINI S
+#DESIGNED BY 
+#SIKHARINI S
