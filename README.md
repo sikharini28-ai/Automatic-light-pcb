@@ -6,18 +6,25 @@ KiCAd
 
 
 PCB LAYOUT
+
+
+
 ![pcblayout](pcblayout.png)
 
 
+
 SCHEMATIC DIAGRAM
+
+
+
 ![schematic](schematic.png)
 
 
 
 
+3D VIEW
 
 
-3D VIEW 
 ![view3d](view3d.png)
 
 
